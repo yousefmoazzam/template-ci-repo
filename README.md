@@ -5,3 +5,5 @@
 [![Code Health](https://landscape.io/github/dls-controls/template-ci-repo/master/landscape.svg?style=flat)](https://landscape.io/github/dls-controls/template-ci-repo/master)
 
 A repo with some default files for setting up a python repo with continuous integration (travis, coveralls, landscape)
+
+[How To Guide](http://confluence.diamond.ac.uk/display/~mef65357/How+to+set+up+a+Python+git+repository+with+automatic+CI+testing)
