@@ -1,6 +1,10 @@
 Template-CI-Repo
 ================
 
+.. image:: https://api.codacy.com/project/badge/Grade/10e4bc948cc5464cb768c572e64608c8
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/app/yousefmoazzam/template-ci-repo?utm_source=github.com&utm_medium=referral&utm_content=yousefmoazzam/template-ci-repo&utm_campaign=Badge_Grade_Settings
+
 A repo with some default files for setting up a python repo with continuous integration (travis, coveralls, landscape)
 
 
